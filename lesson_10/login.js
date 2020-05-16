@@ -1,4 +1,4 @@
-const userName = prompt('Enter user name');
+const userName = prompt("Enter user name");
 
 if (userName === 'admin') {
   const password = prompt('Enter password');
